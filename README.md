@@ -9,7 +9,7 @@ shuang4csa@hotmail.com
 
 **The purpose of this project is to demonstrate the ability to collect, work with, and clean a dataset. The goal is to prepare tidy data that can be used for later analysis.** 
 
-**Tidy datasets are easy to manipulate, model and visualize, and have a specific structure:** 
+**Tidy datasets are easy to manipulate, model and visualize, and have a specific structure:**      
 **1. each variable is a column,**    
 **2. each observation is a row, and**   
 **3. each type of observational unit is a table.**   
