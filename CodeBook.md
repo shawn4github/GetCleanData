@@ -124,7 +124,7 @@ Modified feature names: FrequencyBodyGyroJerkMagMEAN; TimeBodyAccMagSTD; TimeGra
 >Activity    
 - Activity types    
 - Class: factor   
-- 6 Levels: WALKING WALKING_UPSTAIRS WALKING_DOWNSTAIRS SITTING STANDING LAYING    
+- 6 Levels: Walking, Walking Upstairs, Walking Downstairs, Sitting, Standing, Laying     
 
 >TimeBodyAccMagMEAN      
 - The mean magnitude value of time domain signals captured on body by accelerometer     
